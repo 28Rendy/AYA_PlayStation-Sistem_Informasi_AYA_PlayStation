@@ -252,7 +252,24 @@ Proyek ini dilisensikan di bawah **MIT License**. Lihat file [LICENSE](LICENSE) 
 
 <div align="center">
 
-**Dibuat dengan ❤️ menggunakan [Laravel](https://laravel.com)**
+<h1 align="center"> FrontEnd - AYA PlayStation</h1>
+
+<img width="1920" height="8394" alt="AYA PlayStation - Frontend Modern Gaming Lounge   Rental Console" src="https://github.com/user-attachments/assets/c9fe4ffc-d901-4a0a-8b14-de76da457329" />
+
+<h1 align="center"> Login - AYA PlayStation</h1>
+
+<img width="956" height="434" alt="AYA Playstation-Login " src="https://github.com/user-attachments/assets/d39297fd-4057-43a7-9320-6858405d31ce" />
+
+<h1 align="center"> Backend Admin - AYA PlayStation</h1>
+
+<img width="1920" height="1203" alt="Admin - AYA PlayStation" src="https://github.com/user-attachments/assets/5d4e2ec0-15f7-4351-a363-4cb3a1734190" />
+
+<h1 align="center"> Backend Portal Pelanggan - AYA PlayStation</h1>
+
+<img width="1920" height="1451" alt="Portal Pelanggan - AYA PlayStation" src="https://github.com/user-attachments/assets/458662eb-4cfc-4431-bc90-8008e48c0e04" />
+
+
+**Dibuat dengan OK Rendy 28 menggunakan [Laravel](https://laravel.com)**
 
 ⭐ Jangan lupa beri **Star** jika proyek ini bermanfaat!
 
