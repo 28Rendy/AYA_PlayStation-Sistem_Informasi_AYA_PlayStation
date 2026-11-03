@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/AYA_PlayStation-Sistem_Informasi-blue?style=for-the-badge&logo=playstation&logoColor=white" alt="AYA PlayStation" width="500"/>
 
-# 🎮 AYA PlayStation — Sistem Informasi
+# 🎮 AYA PlayStation - Sistem Informasi
 
 **Sistem manajemen rental PlayStation berbasis web yang modern, lengkap, dan mudah digunakan.**
 
