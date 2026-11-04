@@ -42,8 +42,8 @@
 
 **AYA PlayStation** adalah sistem informasi manajemen rental PlayStation yang dirancang untuk memudahkan pengelolaan bisnis rental game. Sistem ini menyediakan dua portal utama:
 
-- 🔑 **Portal Admin** — Kelola seluruh operasional bisnis: data ruang, PS, pelanggan, keuangan, dan konten website.
-- 👤 **Portal Pelanggan** — Pelanggan dapat melihat ruang yang tersedia dan melakukan pemesanan secara online.
+- 🔑 **Portal Admin** - Kelola seluruh operasional bisnis: data ruang, PS, pelanggan, keuangan, dan konten website.
+- 👤 **Portal Pelanggan** - Pelanggan dapat melihat ruang yang tersedia dan melakukan pemesanan secara online.
 
 ---
 
@@ -85,11 +85,11 @@
 |-----------|-------|----------|
 | **Laravel** | `^7.0` | Framework PHP Backend |
 | **PHP** | `^7.2.5` | Bahasa Pemrograman |
-| **MySQL** | — | Database |
-| **Bootstrap** | — | Framework CSS Frontend |
+| **MySQL** | - | Database |
+| **Bootstrap** | - | Framework CSS Frontend |
 | **Laravel UI** | `2.4` | Autentikasi & UI Scaffolding |
-| **Composer** | — | Dependency Manager PHP |
-| **Node.js / NPM** | — | Asset Compilation (Mix) |
+| **Composer** | - | Dependency Manager PHP |
+| **Node.js / NPM** | - | Asset Compilation (Mix) |
 
 ---
 
